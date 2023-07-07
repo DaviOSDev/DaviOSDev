@@ -3,7 +3,7 @@
 - 📖 I’m currently studying Computational Engineering on [UFOP(Universidade Federal de Ouro Preto)](https://ufop.br/)
 - 📫 To reach me is simple. Just send an e-mail to this address: davikpi51@gmail.com
 
-### Languages I speake:
+### Languages I speak:
 - ***Portuguese - Mother language***
 - ***English - Intermediate***
 <div>
