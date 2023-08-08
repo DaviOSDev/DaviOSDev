@@ -8,7 +8,7 @@
 - ***English - Intermediate***
 <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=DaviOSDev">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviOSDev">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviOSDev&layout=compact">
 </div>
 
 
