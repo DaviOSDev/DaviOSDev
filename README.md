@@ -7,8 +7,8 @@
 - ***Portuguese - Mother language***
 - ***English - Intermediate***
 <div>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=DaviOSDev&theme=dark&show_icons=true">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviOSDev&theme=dark&langs_count=4&layout=compact">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=DaviOSDev">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviOSDev">
 </div>
 
 
