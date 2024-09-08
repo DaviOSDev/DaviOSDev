@@ -1,7 +1,7 @@
 ## Hello there! I'm Davi Santos 
 
 - 📖 I’m currently studying Computer Science at UFU (Universidade Federal de Uberlandia).
-- 📫 To reach me is simple. Just send an e-mail to this address: davikpi51@gmail.com
+- 📫 To reach me is simple. Just send an e-mail to this address: davi.sansoli@gmail.com
 
 ### Languages I speak:
 - ***Portuguese - Mother language***
